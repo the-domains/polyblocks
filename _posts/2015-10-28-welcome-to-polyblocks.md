@@ -1,24 +1,24 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-10-28T04:03:18.964Z'
-dateModified: '2015-10-28T04:02:15.238Z'
+datePublished: '2015-10-28T04:27:09.656Z'
+dateModified: '2015-10-28T04:26:44.256Z'
 title: 'Welcome to PolyBlocks!'
+sourcePath: _posts/2015-10-28-welcome-to-polyblocks.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-10-28-welcome-to-polyblocks.md
-published: true
-url: welcome-to-polyblocks/index.html
-_type: Article
+_type: Blurb
 
 ---
 I've been working with [Polymer][0] for a few weeks now, and figured documenting everything that I learn along the way would be a great way to test out [The Grid][1]. If I'm lucky, someone will find this useful besides myself, and then it'll all be worth it. 
