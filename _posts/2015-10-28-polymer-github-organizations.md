@@ -1,24 +1,24 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: "There's more than just Polymer"
-datePublished: '2015-10-28T04:23:34.288Z'
-dateModified: '2015-10-28T04:23:12.731Z'
+datePublished: '2015-10-28T04:27:01.188Z'
+dateModified: '2015-10-28T04:26:55.311Z'
 title: Polymer GitHub Organizations
+sourcePath: _posts/2015-10-28-polymer-github-organizations.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-10-28-polymer-github-organizations.md
-published: true
-url: polymer-github-organizations/index.html
-_type: Article
+_type: Blurb
 
 ---
 As best I can tell, there are 3 main Polymer-related organizations on GitHub where the Polymer team is actively contributing to:
