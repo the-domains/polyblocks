@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "There's more than just Polymer"
-datePublished: '2015-10-28T04:27:01.188Z'
-dateModified: '2015-10-28T04:26:55.311Z'
+datePublished: '2015-10-29T03:11:04.217Z'
+dateModified: '2015-10-29T03:10:53.206Z'
 title: Polymer GitHub Organizations
 sourcePath: _posts/2015-10-28-polymer-github-organizations.md
 published: true
